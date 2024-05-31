@@ -1,0 +1,12 @@
+/* src/BlogContent.css */
+.blog-content {
+    padding: 20px;
+}
+
+.blog-post {
+    margin-bottom: 20px;
+}
+
+.blog-post h3 {
+    margin-top: 0;
+}
