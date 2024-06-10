@@ -1,3 +1,4 @@
+// src/BlogHeader.js
 import React from 'react';
 import './BlogHeader.css'; // Import your CSS file
 
